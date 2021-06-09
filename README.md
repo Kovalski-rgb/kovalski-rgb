@@ -1,6 +1,9 @@
-### Hi there 👋
-
+Eu só abri esse readme pq eu achei legal e tinha no perfil dos outros
+<br>**FAVOR NÃO COPIAR** TRABALHOS DOS REPOSITÓRIOS
+<br>(se quem tiver lendo isso quiser ajuda ou sei la, tai meu discord: `"Good" Kovalski2#6878`, fique a vontade p perguntar qualquer coisa)</h3>
+<br>~~não sei como alguém chegaria aqui sem ver meu discord antes, só os escolhidos de verdade~~
 <!--
+### Hi there 👋
 **Kovalski-rgb/kovalski-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Achei bunitu vou deixar td aqui
 -->
