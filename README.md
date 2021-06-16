@@ -2,6 +2,8 @@ Eu só abri esse readme pq eu achei legal e tinha no perfil dos outros
 <br>**FAVOR NÃO COPIAR** TRABALHOS DOS REPOSITÓRIOS
 <br>(se quem tiver lendo isso quiser ajuda ou sei la, tai meu discord: `"Good" Kovalski2#6878`, fique a vontade p perguntar qualquer coisa)</h3>
 <br>~~não sei como alguém chegaria aqui sem ver meu discord antes, só os escolhidos de verdade~~
+
+Tenho essa segunda conta também: [Alkovalski](https://github.com/Alkovalski), não sei direito por que tenho duas, mas vai que a outra é util qualquer dia
 <!--
 ### Hi there 👋
 **Kovalski-rgb/kovalski-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
