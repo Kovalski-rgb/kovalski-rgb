@@ -2,6 +2,8 @@
 <br>(se quem tiver lendo isso quiser ajuda ou sei la, tai meu discord: `"Good" Kovalski2#6878`, fique a vontade p perguntar qualquer coisa)</h3>
 
 Tenho essa segunda conta também: [Alkovalski](https://github.com/Alkovalski), mas não uso muito ela não
+
+Tb tenho que organizar meus repositórios, ta td uma bagunça
 <!--
 ### Hi there 👋
 **Kovalski-rgb/kovalski-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
