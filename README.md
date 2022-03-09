@@ -1,7 +1,6 @@
-<br>**FAVOR NÃO COPIAR** TRABALHOS DOS REPOSITÓRIOS
-<br>(se quem tiver lendo isso quiser ajuda ou sei la, tai meu discord: `"Good" Kovalski2#6878`, fique a vontade p perguntar qualquer coisa)</h3>
+GOSTO de ajudar os outros c/ programação (principalmente com POO, POO é gostosinho de programar)
 
-Tenho essa segunda conta também: [Alkovalski](https://github.com/Alkovalski), mas não uso muito ela não
+Tenho essa segunda conta também: [Alkovalski](https://github.com/Alkovalski), mas não uso muito ela não (ela tem um joguinho de [batalha naval](https://alkovalski.github.io/naval/batalha-naval.html) maneirão)
 
 Tb tenho que organizar meus repositórios, ta td uma bagunça
 <!--
