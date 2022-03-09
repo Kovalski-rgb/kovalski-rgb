@@ -1,4 +1,4 @@
-GOSTO de ajudar os outros c/ programação (principalmente com POO, POO é gostosinho de programar)
+GOSTO de ajudar os outros c/ programação (principalmente com POO, Orientada é gostosinho de programar)
 
 Tenho essa segunda conta também: [Alkovalski](https://github.com/Alkovalski), mas não uso muito ela não (ela tem um joguinho de [batalha naval](https://alkovalski.github.io/naval/batalha-naval.html) maneirão)
 
