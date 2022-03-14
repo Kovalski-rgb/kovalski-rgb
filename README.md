@@ -4,12 +4,12 @@ Tenho essa segunda conta também: [Alkovalski](https://github.com/Alkovalski), m
 
 Tb tenho que organizar meus repositórios, ta td uma bagunça
 
-Odeio quando o git nn deixa eu fazer um commit DIRETO na branch main >:(
 <!--
 Colinha dos comandos do git hihhiihihhihihihi
 
 https://devconnected.com/how-to-push-git-branch-to-remote/
 https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
+$ git checkout <branch> pra mudar a branch padrão
 
 Push Branch To Remote
 
