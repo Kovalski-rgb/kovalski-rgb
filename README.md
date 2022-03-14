@@ -3,6 +3,8 @@ GOSTO de ajudar os outros c/ programação (principalmente com POO, Orientada é
 Tenho essa segunda conta também: [Alkovalski](https://github.com/Alkovalski), mas não uso muito ela não (ela tem um joguinho de [batalha naval](https://alkovalski.github.io/naval/batalha-naval.html) maneirão)
 
 Tb tenho que organizar meus repositórios, ta td uma bagunça
+
+Odeio quando o git nn deixa eu fazer um commit DIRETO na branch main >:(
 <!--
 ### Hi there 👋
 **Kovalski-rgb/kovalski-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
