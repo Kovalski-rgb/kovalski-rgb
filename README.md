@@ -5,10 +5,10 @@
 <table>
     <tr>
         <td>
-            <a href="https://alkovalski.github.io/naval/batalha-naval.html">Batalha Naval</a>
+            <a href="https://github.com/Alkovalski/batalha_naval">Batalha Naval</a>
         </td>
         <td>
-            Um jogo de batalha naval feito para um trabalho durante o 3° ano do ensino médio, utiliza JQuery para interação entre HTML e JS
+            Um jogo de batalha naval feito para um trabalho durante o 3° ano do ensino médio, utiliza JQuery para interação entre HTML e JS, segue o <a href="https://alkovalski.github.io/naval/batalha-naval.html">link</a> para jogar
         </td>
     </tr>
     <tr>
@@ -40,7 +40,7 @@
             <a href="https://github.com/Trabalhos-PUC-PR/Vaulty">Password Vault</a>
         </td>
         <td>
-            Vaulty é um password vault feito durante o 5° período de BCC, o objetivo dele é um cofre de senhas, com criptografia segura
+            Vaulty é um password vault feito durante o 5° período de BCC, o objetivo dele é ser um cofre de senhas, offline e com criptografia segura
         </td>
     </tr>
 </table>
