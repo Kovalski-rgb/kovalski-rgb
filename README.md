@@ -25,6 +25,8 @@
         </td>
         <td>
             Projeto feito durante o 2° periodo de BCC, o objetivo dele é ocultar mensagens dentro de imagens, modificando os bits menos significativos de cada pixel para compor uma mensagem
+            <br>
+            A "v2" desse projeto se encontra aqui: <a href="https://github.com/Kovalski-rgb/image-Injector">Image Injector</a>
         </td>
     </tr>
     <tr>
